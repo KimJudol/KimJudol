@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/JK-cs/JK-cs.git" target="_blank"><img src="https://img.shields.io/badge/Nike-111111?style=for-the-badge&logo=Nike&logoColor=111111"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JK-cs&show_icons=true&theme=radical)

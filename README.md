@@ -6,10 +6,11 @@
 🖋 I can use C, C++, Python, Javascript, HTML, java </br>
 🖋 I studied Reversing, Web Hacking, System Hacking </br>
 🌱 I’m currently learning nodeJS</br>
+👯 I love sharing idea with people</br>
 🥋 I love Taekwondo sparring and joining in Ewha Taekwon</br>
 😄 I'm a fan of Samsung Lions and SKT T1</br>
 ❤ I enjoy playing League of Legends and PoketmonGo </br>
-👯 I love sharing idea with people
+👯 I love sharing idea with people</br>
 
 <!--
 **JK-cs/JK-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

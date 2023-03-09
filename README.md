@@ -4,7 +4,7 @@
 🔭 I worked on ECOPS educator </br>
 🖋 I can use C, C++, Python, Javascript, HTML </br>
 🌱 I’m currently learning nodeJS</br>
-🥋 I love Taekwondo and sparring </br>
+🥋 I am player of Taekwondo sparring of Ewha Taekwon</br>
 
 <!--
 **JK-cs/JK-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

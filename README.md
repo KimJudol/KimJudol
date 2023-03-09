@@ -9,7 +9,7 @@
 🥋 I love Taekwondo sparring and joining in Ewha Taekwon</br>
 😄 I'm a fan of Samsung Lions and SKT T1</br>
 ❤ I enjoy playing League of Legends and PoketmonGo </br>
-👯 I love working and talking with people
+👯 I love sharing idea with people
 
 <!--
 **JK-cs/JK-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

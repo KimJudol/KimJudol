@@ -1,10 +1,10 @@
 ### Hi there 👋
-🏫 I am majoring in Cyber Security in Ewha Womans Univercity
-🔭 I’m currently working on Ewhaian Backend Developer
-🔭 I worked on ECOPS educator
-🖋 I can use C, C++, Python, Javascript, HTML
-🌱 I’m currently learning nodeJS
-🥋 I love Taekwondo and sparring
+🏫 I am majoring in Cyber Security in Ewha Womans Univercity </br>
+🔭 I’m currently working on Ewhaian Backend Developer </br>
+🔭 I worked on ECOPS educator </br>
+🖋 I can use C, C++, Python, Javascript, HTML </br>
+🌱 I’m currently learning nodeJS</br>
+🥋 I love Taekwondo and sparring </br>
 
 <!--
 **JK-cs/JK-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

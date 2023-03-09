@@ -1,4 +1,10 @@
 ### Hi there 👋
+🏫 I am majoring in Cyber Security in Ewha Womans Univercity
+🔭 I’m currently working on Ewhaian Backend Developer
+🔭 I worked on ECOPS educator
+🖋 I can use C, C++, Python, Javascript, HTML
+🌱 I’m currently learning nodeJS
+🥋 I love Taekwondo and sparring
 
 <!--
 **JK-cs/JK-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/JK-cs/JK-cs.git" target="_blank"><img src="https://img.shields.io/badge/Nike-111111?style=for-the-badge&logo=Nike&logoColor=111111"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JK-cs&show_icons=true&theme=radical)

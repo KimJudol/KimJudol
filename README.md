@@ -4,7 +4,7 @@
 🔭 I’m currently working on Ewhaian Backend Developer </br>
 🔭 I worked on ECOPS educator </br>
 🖋 I can use C, C++, Python, Javascript, HTML, java </br>
-🖋 I studied Reversing, Web Hacking, System Hacking </br>
+🖋 I studied Reversing, Web Hacking, System Hacking and Game Hakcking </br>
 🌱 I’m currently learning nodeJS</br>
 👯 I love sharing idea with people</br>
 🥋 I love Taekwondo sparring and joining in Ewha Taekwon</br>

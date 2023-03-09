@@ -1,4 +1,4 @@
-### Hi I'm JK 👋
+### Hi I'm Judol 👋
 <p>
 📫 Email Address : wskje0106@ewhain.net</br>
 🏫 I am majoring in Cyber Security in Ewha Womans University </br>

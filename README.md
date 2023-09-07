@@ -2,7 +2,7 @@
 <p>
 📫 Email Address : wskje0106@ewhain.net</br>
 🏫 I am majoring in Cyber Security in Ewha Womans University </br>
-🔭 I’m currently working on Ewhaian Backend Developer </br>
+🔭 I worked on Ewhaian Backend Developer </br>
 🔭 I worked on ECOPS educator </br>
 🖋 I can use C, C++, Python, Javascript, HTML, java </br>
 🖋 I studied Reversing, Web Hacking, System Hacking and Game Hakcking </br>

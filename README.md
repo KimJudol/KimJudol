@@ -1,8 +1,9 @@
 ### Hi I'm Judol 👋
+
+📫 Email Address : wskje0106@ewha.ac.kr</br></br>
 <p>
-📫 Email Address : wskje0106@ewha.ac.kr</br>
 🏫 I am majoring in Cyber Security in Ewha Womans University as an exchange student</br>
-🗼 I studied in Tokyo University of Foreign Languages </br>
+🏫 I studied in Tokyo University of Foreign Languages </br>
 🔭 I worked on Ewhaian Web Developer </br>
 🔭 I worked on ECOPS educator </br>
 🖋 I can code using C, Python, Javascript, PHP, SQL query</br>

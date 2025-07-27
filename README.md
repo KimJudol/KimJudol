@@ -1,7 +1,6 @@
 ### Hi I'm Judol 👋
 
 <p>
-< University life ><br>
 🏫 I am a bachelor in Cyber Security in Ewha Womans University</br>
 🏫 I studied in Tokyo University of Foreign Languages as an exchange student</br>
 🔭 I was on Ewhaian Web Developer Team</br>

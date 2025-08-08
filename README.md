@@ -4,7 +4,7 @@
 🏫 I am a bachelor in Cyber Security in Ewha Womans University</br>
 🏫 I studied in Tokyo University of Foreign Languages as an exchange student</br>
 🔭 I was on Ewhaian Web Developer Team</br>
-🔭 I am BoB-14 of security developer track</br>
+🔭 I am on BoB-14 of security developer track</br>
 </p>
   
 📫 Email Address : wskje0106@ewha.ac.kr</br>
